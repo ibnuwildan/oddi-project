@@ -1,0 +1,347 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "nama": "baju"
+    },
+    {
+      "id": 2,
+      "nama": "jersey"
+    },
+    {
+      "id": 3,
+      "nama": "polo"
+    },
+    {
+      "id": 4,
+      "nama": "reglan"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "B-01",
+      "nama": "Tsirt",
+      "harga": 80000,
+      "is_ready": true,
+      "gambar": "baju-biru.jpeg",
+      "category": {
+        "id": 1,
+        "nama": "baju"
+      }
+    },
+    {
+      "id": 2,
+      "kode": "B-02",
+      "nama": "Tsirt",
+      "harga": 90000,
+      "is_ready": true,
+      "gambar": "baju-hijau.jpeg",
+      "category": {
+        "id": 1,
+        "nama": "baju"
+      }
+    },
+    {
+      "id": 1,
+      "kode": "B-03",
+      "nama": "Tsirt",
+      "harga": 80000,
+      "is_ready": true,
+      "gambar": "baju-merah.jpeg",
+      "category": {
+        "id": 1,
+        "nama": "baju"
+      }
+    },
+    {
+      "id": 2,
+      "kode": "B-04",
+      "nama": "Tsirt",
+      "harga": 90000,
+      "is_ready": true,
+      "gambar": "baju-putih.jpeg",
+      "category": {
+        "id": 1,
+        "nama": "baju"
+      }
+    },
+    {
+      "id": 1,
+      "kode": "B-05",
+      "nama": "Tsirt",
+      "harga": 80000,
+      "is_ready": true,
+      "gambar": "card2.jpeg",
+      "category": {
+        "id": 1,
+        "nama": "baju"
+      }
+    },
+    {
+      "id": 2,
+      "kode": "B-06",
+      "nama": "Tsirt",
+      "harga": 90000,
+      "is_ready": true,
+      "gambar": "card3.jpeg",
+      "category": {
+        "id": 1,
+        "nama": "baju"
+      }
+    },
+    {
+      "id": 1,
+      "kode": "B-07",
+      "nama": "Tsirt",
+      "harga": 80000,
+      "is_ready": true,
+      "gambar": "baju-merah.jpeg",
+      "category": {
+        "id": 1,
+        "nama": "baju"
+      }
+    },
+    {
+      "id": 2,
+      "kode": "B-08",
+      "nama": "Tsirt",
+      "harga": 90000,
+      "is_ready": true,
+      "gambar": "card5.jpeg",
+      "category": {
+        "id": 1,
+        "nama": "baju"
+      }
+    },
+    {
+      "id": 5,
+      "kode": "C-03",
+      "nama": "Celana Jeans",
+      "harga": 180000,
+      "is_ready": true,
+      "gambar": "jersey8.png",
+      "category": {
+        "id": 2,
+        "nama": "jersey"
+      }
+    },
+    {
+      "id": 6,
+      "kode": "C-04",
+      "nama": "Celana jeans",
+      "harga": 150000,
+      "is_ready": true,
+      "gambar": "jersey7.png",
+      "category": {
+        "id": 2,
+        "nama": "jersey"
+      }
+    },
+    {
+      "id": 7,
+      "kode": "C-05",
+      "nama": "Celana Jeans",
+      "harga": 180000,
+      "is_ready": true,
+      "gambar": "jersey6.jpeg",
+      "category": {
+        "id": 2,
+        "nama": "jersey"
+      }
+    },
+    {
+      "id": 8,
+      "kode": "C-06",
+      "nama": "Celana jeans",
+      "harga": 150000,
+      "is_ready": true,
+      "gambar": "jersey5.jpeg",
+      "category": {
+        "id": 2,
+        "nama": "jersey"
+      }
+    },
+    {
+      "id": 7,
+      "kode": "C-05",
+      "nama": "Celana Jeans",
+      "harga": 180000,
+      "is_ready": true,
+      "gambar": "jersey11.jpeg",
+      "category": {
+        "id": 2,
+        "nama": "jersey"
+      }
+    },
+    {
+      "id": 8,
+      "kode": "C-06",
+      "nama": "Celana jeans",
+      "harga": 150000,
+      "is_ready": true,
+      "gambar": "jersey10.jpeg",
+      "category": {
+        "id": 2,
+        "nama": "jersey"
+      }
+    },
+    {
+      "id": 7,
+      "kode": "C-05",
+      "nama": "Celana Jeans",
+      "harga": 180000,
+      "is_ready": true,
+      "gambar": "jersey4.jpeg",
+      "category": {
+        "id": 2,
+        "nama": "jersey"
+      }
+    },
+    {
+      "id": 8,
+      "kode": "C-06",
+      "nama": "Celana jeans",
+      "harga": 150000,
+      "is_ready": true,
+      "gambar": "jersey12.jpeg",
+      "category": {
+        "id": 2,
+        "nama": "jersey"
+      }
+    },
+    {
+      "id": 9,
+      "kode": "K-03",
+      "nama": "Polo",
+      "harga": 180000,
+      "is_ready": true,
+      "gambar": "polo4.jpeg",
+      "category": {
+        "id": 3,
+        "nama": "polo"
+      }
+    },
+    {
+      "id": 10,
+      "kode": "K-04",
+      "nama": "Polo",
+      "harga": 150000,
+      "is_ready": true,
+      "gambar": "polo1.jpeg",
+      "category": {
+        "id": 3,
+        "nama": "polo"
+      }
+    },
+    {
+      "id": 11,
+      "kode": "K-05",
+      "nama": "Polo",
+      "harga": 180000,
+      "is_ready": true,
+      "gambar": "polo2.jpeg",
+      "category": {
+        "id": 3,
+        "nama": "polo"
+      }
+    },
+    {
+      "id": 12,
+      "kode": "K-06",
+      "nama": "Polo",
+      "harga": 150000,
+      "is_ready": true,
+      "gambar": "polo5.jpeg",
+      "category": {
+        "id": 3,
+        "nama": "polo"
+      }
+    },
+    {
+      "id": 12,
+      "kode": "K-06",
+      "nama": "Reglan",
+      "harga": 150000,
+      "is_ready": true,
+      "gambar": "reglan4.jpeg",
+      "category": {
+        "id": 4,
+        "nama": "reglan"
+      }
+    },
+
+    {
+      "id": 12,
+      "kode": "K-06",
+      "nama": "Reglan",
+      "harga": 150000,
+      "is_ready": true,
+      "gambar": "reglan3.jpeg",
+      "category": {
+        "id": 4,
+        "nama": "reglan"
+      }
+    },
+    {
+      "id": 12,
+      "kode": "K-06",
+      "nama": "Reglan",
+      "harga": 150000,
+      "is_ready": true,
+      "gambar": "reglan2.png",
+      "category": {
+        "id": 4,
+        "nama": "reglan"
+      }
+    },
+    {
+      "id": 12,
+      "kode": "K-06",
+      "nama": "Reglan",
+      "harga": 150000,
+      "is_ready": true,
+      "gambar": "reglan1.jpeg",
+      "category": {
+        "id": 4,
+        "nama": "reglan"
+      }
+    },
+    {
+      "id": 12,
+      "kode": "K-06",
+      "nama": "Reglan",
+      "harga": 150000,
+      "is_ready": true,
+      "gambar": "reglan6.jpeg",
+      "category": {
+        "id": 4,
+        "nama": "reglan"
+      }
+    },
+    {
+      "id": 12,
+      "kode": "K-06",
+      "nama": "Reglan",
+      "harga": 150000,
+      "is_ready": true,
+      "gambar": "reglan7.jpeg",
+      "category": {
+        "id": 4,
+        "nama": "reglan"
+      }
+    },
+    {
+      "id": 12,
+      "kode": "K-06",
+      "nama": "Reglan",
+      "harga": 150000,
+      "is_ready": true,
+      "gambar": "reglan8.jpeg",
+      "category": {
+        "id": 4,
+        "nama": "reglan"
+      }
+    }
+  ]
+}

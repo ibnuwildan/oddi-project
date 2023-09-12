@@ -1,0 +1,135 @@
+.navbar {
+  background-color: #71e5a8;
+  font-size: 15px;
+  font-weight: 500;
+}
+.nav-link {
+  margin: 15px;
+  padding-right: 20px;
+}
+
+.card-product {
+  width: 20rem;
+  height: 41rem;
+  border-style: solid;
+  text-align: center;
+}
+.card-product img {
+  width: 15rem;
+}
+.card-product .card-body {
+  height: 50rem;
+}
+.card-carousel {
+  padding-bottom: 5rem;
+  width: 20rem;
+  border-color: transparent !important;
+  align-items: center;
+  text-align: center;
+}
+.card-carousel img {
+  border-radius: 50%;
+  width: 12rem;
+  padding-bottom: 1rem;
+}
+
+.card-item {
+  border-color: transparent !important;
+  width: 25rem;
+}
+
+.footer {
+  background-color: #71e5a8;
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 2rem;
+}
+.footers a {
+  font-size: 17px;
+  text-decoration: none;
+  color: #646464;
+  position: relative;
+}
+.footers a::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 50px;
+  width: 0%;
+  height: 1px;
+  background: black;
+  transition: 0.3s ease-out;
+}
+.footers a:hover::after {
+  left: 0;
+  width: 100%;
+}
+.col-md-4 img {
+  border-radius: 50%;
+  width: 4rem;
+  margin-right: 1.5rem;
+  padding-top: 5px;
+}
+.col-md-4 {
+  padding-top: 2rem;
+}
+
+.col-md-4 h4 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: black;
+  margin-bottom: 10px;
+  position: relative;
+}
+.col-md-4 h4::before {
+  content: "";
+  position: absolute;
+  height: 3px;
+  width: 70px;
+  left: 3;
+  bottom: 20px;
+  background: black;
+}
+.col-md-4 ul li:not(last-child) {
+  list-style: none;
+}
+.col-md-4 ul li a {
+  font-size: 1.2rem;
+  padding-bottom: 10px;
+  display: inline-block;
+  text-transform: capitalize;
+  text-decoration: none;
+  transition: 0.4s;
+  color: #646464;
+}
+.col-md-4 ul li a:hover {
+  color: black;
+  transform: translateX(-12px);
+  font-weight: 600;
+}
+.social a {
+  font-size: 30px;
+  display: inline-flex;
+  color: #646464;
+  align-items: center;
+  justify-content: center;
+  margin-right: 3rem;
+  border-radius: 50%;
+  transition: 0.4s;
+}
+.social a:hover {
+  color: #71e5a8;
+  background-color: black;
+  transform: scale(1.2);
+}
+/* 
+@media (max-width: 375px) {
+  .group img {
+    width: 20rem !important;
+    padding-top: 5px;
+  }
+  .grup img {
+    width: 20rem !important;
+    background-color: red;
+  }
+} */
